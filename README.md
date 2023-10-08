@@ -1,27 +1,22 @@
+## Culinova - Bring out your 
 
-## Available Scripts
 
-In the project directory, you can run:
+## Screenshots
 
-### `npm start`
+![image](https://github.com/Debaditya-Som/Culinova/assets/121785700/019e1ec2-5a51-4ed3-a7d9-12b92c66b4b1)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/Debaditya-Som/Culinova/assets/121785700/ad6d47d2-f7f3-4dc9-be9b-ae07a3f3a97b)
 
-### `npm test`
+![image](https://github.com/Debaditya-Som/Culinova/assets/121785700/ba2307db-1226-46d3-ac4e-845b5c65eb89)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Problem Statement
+When it comes to exploring their culinary talents in the comfort of their own kitchens, many aspiring and seasoned home cooks confront hurdles. They typically struggle to find fresh and creative recipes that fit their dietary choices, skill levels, and ingredients, often seeking changes or adaptations of traditional dishes to suit their preferences. Keeping a well-stocked kitchen and utilizing food effectively and without waste may be difficult, requiring a system for controlling their inventory, procuring unique ingredients, and finding substitutions when needed. Every chef must be constantly learning and improving their skills, desiring access to materials that will assist them in broadening their culinary knowledge and expertise. In the absence of a helpful and inspirational culinary community, the culinary journey may be lonely and uninteresting, leaving home cooks yearning for opportunities to interact, exchange experiences, and be inspired by their colleagues. Additionally, prioritizing a balanced and nutritious diet is crucial, and home cooks seek advice on how to prepare healthful meals that match their nutritional requirements
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies we used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
+- React.Js
+- Vercel 
+- Sass
+-
+-
