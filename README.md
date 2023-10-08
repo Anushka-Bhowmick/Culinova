@@ -16,9 +16,8 @@
 ## About The Project
 ### Screenshots
 
-![image](https://github.com/Debaditya-Som/Culinova/assets/121785700/ba2307db-1226-46d3-ac4e-845b5c65eb89)
+![image](https://github.com/Debaditya-Som/Culinova/assets/121785700/59568aa8-47ae-4911-b785-494e5e1a3920)
 
-![image](https://github.com/Debaditya-Som/Culinova/assets/121785700/019e1ec2-5a51-4ed3-a7d9-12b92c66b4b1)
 
 
 
